@@ -1,7 +1,9 @@
+package Ex1;
 
-public class PersonelMain {
+public class PersonalMain {
 
 	public static void main(String[] args) {
+		// Çalışan bilgileri
 		String calisanAdi = "Ahmet Yilmaz";
 		int calisanNumarasi = 67890;
 		int calisanYasi = 35;
