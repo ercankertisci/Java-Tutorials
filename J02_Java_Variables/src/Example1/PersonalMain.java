@@ -1,4 +1,4 @@
-package Ex1;
+package Example1;
 
 public class PersonalMain {
 
